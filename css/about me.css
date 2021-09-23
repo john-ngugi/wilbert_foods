@@ -1,0 +1,29 @@
+#header {
+    background-image: url(../images/sutirta-budiman-PdiOj8kRy28-unsplash.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+#overlay {
+    position: absolute;
+    background: black;
+    opacity: .5;
+    height: 100%;
+    width: 100%;
+}
+
+#heading {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 400px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+#story {
+    font-size: 25px;
+}
